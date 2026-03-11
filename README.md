@@ -1,7 +1,7 @@
-# SecurePass 🔐  
+# GenPass 🔐  
 **A zero-backend, privacy-first password generator you can host anywhere.**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://pass.therayyanawaz.co.in/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://pass.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](./LICENSE)
 
 ---
@@ -18,8 +18,8 @@
 ## 🚀 Quick Start (local)
 1. **Clone**
    ```bash
-   git clone https://github.com/therayyanawaz/SecurePass.git
-   cd SecurePass
+   git clone https://github.com/RatnaKatiyar12/GenPass.git
+   cd GenPass
    ```
 
 2. **Install Dependencies**
@@ -122,7 +122,7 @@
 ---
 
 ## 📄 License
-MIT © 2025 [Md Rayyan Nawaz](https://github.com/therayyanawaz) – see [LICENSE](./LICENSE).
+MIT © 2025 [Md Rayyan Nawaz](https://github.com/RatnaKatiyar12) – see [LICENSE](./LICENSE).
 
 ---
 
@@ -135,7 +135,7 @@ This is a **JAMstack application** built with:
 
 ## 👨‍💻 Authors & Contributors
 
-- **[@therayyanawaz](https://www.github.com/therayyanawaz)** - Creator & Lead Developer
+- **[@RatnaKatiyar12](https://www.github.com/RatnaKatiyar12)** - Creator & Lead Developer
 
 ---
 
